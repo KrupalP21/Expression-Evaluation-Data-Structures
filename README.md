@@ -8,6 +8,8 @@ Input an expression, and input a text file that has the values for the variables
 
 Made using Eclipse(Java) 
 
-### License
+### Note
+Some error in code when dealing with mulitple parentheses and brackets
+#### License
 
 All use of this code must comply with the Rutgers University Code of Student Conduct.
